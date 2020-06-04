@@ -1,1 +1,1 @@
-# blue-print-class-C23
+# Box Class
